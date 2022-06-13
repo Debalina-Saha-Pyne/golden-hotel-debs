@@ -1,0 +1,26 @@
+
+.container1{
+    background-color: #fad105;
+    /* background-image: linear-gradient(to bottom right, rgb(157, 157, 252),rgb(194, 39, 194),rgb(184, 11, 11))!important;
+    background-repeat: no-repeat; */
+    padding: 20px;
+}
+
+.container9{
+  background-color: #fbeea1;
+}
+
+.title3{
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+.heading2{
+    font-size: xxx-large;
+    color: #8f823c;
+}
+
+.im1{
+    width: 90%;
+    padding: 5px;
+}

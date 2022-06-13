@@ -1,0 +1,30 @@
+.t8{
+    padding: 60px;
+    font-size: XXX-large;
+    text-align: center;
+}
+
+.t9{
+    text-align: center;
+}
+
+.container4{
+    color: #f3a260 !important;
+}
+
+.social-icons{
+    position: relative;
+    display: inline-flex;
+    text-decoration: none;
+    gap: 14px;
+    list-style: none;
+  
+}
+
+.pho1{
+    border: 2px solid  #fe9640;
+    padding: 10px;
+  
+}
+
+
